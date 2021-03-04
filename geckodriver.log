@@ -1,0 +1,1286 @@
+1613619448292	geckodriver	INFO	Listening on 127.0.0.1:62186
+1613619451295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileWM2UBN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613619455513	Marionette	INFO	Listening on port 62234
+1613619455585	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613619455607	Marionette	ERROR	[18] No reply from Marionette:Register
+1613619468180	Marionette	INFO	Stopped listening on port 62234
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613619482147	geckodriver	INFO	Listening on 127.0.0.1:62594
+1613619485175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilebhu4yu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613619489235	Marionette	INFO	Listening on port 62642
+1613619489338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613619489357	Marionette	ERROR	[15] No reply from Marionette:Register
+1613619500709	Marionette	INFO	Stopped listening on port 62642
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613619502911	geckodriver	INFO	Listening on 127.0.0.1:62884
+1613619505934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilekM5eXI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613619509831	Marionette	INFO	Listening on port 62927
+1613619510099	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613619510120	Marionette	ERROR	[15] No reply from Marionette:Register
+1613619510450	Marionette	ERROR	[35] No reply from Marionette:Register
+1613619681228	Marionette	INFO	Stopped listening on port 62927
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613619732663	geckodriver	INFO	Listening on 127.0.0.1:49859
+1613619735678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileapEWjc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613619739695	Marionette	INFO	Listening on port 49910
+1613619739859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613619739882	Marionette	ERROR	[15] No reply from Marionette:Register
+1613619740282	Marionette	ERROR	[35] No reply from Marionette:Register
+1613619746494	Marionette	INFO	Stopped listening on port 49910
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613619792013	geckodriver	INFO	Listening on 127.0.0.1:50617
+1613619795058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofile9rHadK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613619802048	Marionette	INFO	Listening on port 50651
+1613619802463	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613619802503	Marionette	ERROR	[15] No reply from Marionette:Register
+1613619803056	Marionette	ERROR	[35] No reply from Marionette:Register
+1613619808243	Marionette	INFO	Stopped listening on port 50651
+1613620751795	geckodriver	INFO	Listening on 127.0.0.1:62344
+1613620754820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilehO3hsg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613620759239	Marionette	INFO	Listening on port 62392
+1613620759577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613620759598	Marionette	ERROR	[15] No reply from Marionette:Register
+1613620760049	Marionette	ERROR	[35] No reply from Marionette:Register
+1613620829883	Marionette	INFO	Stopped listening on port 62391613620831514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofile3FraY4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613620835571	Marionette	INFO	Listening on port 63411
+1613620835671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613620835689	Marionette	ERROR	[15] No reply from Marionette:Register
+1613620835963	Marionette	ERROR	[35] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613622780281	Marionette	INFO	Stopped listening on port 63411
+emp\\rust_mozprofileERqwt4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613620941435	Marionette	INFO	Listening on port 64809
+1613620941479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613620941499	Marionette	ERROR	[15] No reply from Marionette:Register
+1613620941801	Marionette	ERROR	[35] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613622781224	Marionette	INFO	Stopped listening on port 64809
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613621047520	Marionette	INFO	Listening on port 49985
+1613621047968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613621047987	Marionette	ERROR	[18] No reply from Marionette:Register
+1613621048435	Marionette	ERROR	[35] No reply from Marionette:Register
+1613621063466	Marionette	INFO	Stopped listening on port 49985
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613621316239	geckodriver	INFO	Listening on 127.0.0.1:53443
+1613621319262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilek3LsK6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613621323261	Marionette	INFO	Listening on port 53486
+1613621323424	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613621323442	Marionette	ERROR	[15] No reply from Marionette:Register
+1613621323809	Marionette	ERROR	[35] No reply from Marionette:Register
+1613621333986	Marionette	INFO	Stopped listening on port 53486
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613621638154	geckodriver	INFO	Listening on 127.0.0.1:57173
+1613621641188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileagEQ8w"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613621645260	Marionette	INFO	Listening on port 57211
+1613621645359	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613621645380	Marionette	ERROR	[15] No reply from Marionette:Register
+1613621645983	Marionette	ERROR	[35] No reply from Marionette:Register
+1613621685815	Marionette	INFO	Stopped listening on port 57211
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613621798068	geckodriver	INFO	Listening on 127.0.0.1:59056
+1613621801091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofile1BzyuD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613621804936	Marionette	INFO	Listening on port 59100
+1613621805236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613621805252	Marionette	ERROR	[15] No reply from Marionette:Register
+1613621805692	Marionette	ERROR	[35] No reply from Marionette:Register
+1613621808286	Marionette	ERROR	[37] No reply from Marionette:Register
+1613621886144	geckodriver	INFO	Listening on 127.0.0.1:60155
+1613621889183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileW0FD70"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613621893022	Marionette	INFO	Listening on port 60204
+1613621893328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613621893345	Marionette	ERROR	[15] No reply from Marionette:Register
+1613621893938	Marionette	ERROR	[35] No reply from Marionette:Register
+1613621980086	Marionette	INFO	Stopped listening on port 60204
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileWigNzo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613621966101	Marionette	INFO	Listening on port 61157
+1613621966541	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613621966562	Marionette	ERROR	[15] No reply from Marionette:Register
+1613621967151	Marionette	ERROR	[33] No reply from Marionette:Register
+1613621969745	Marionette	ERROR	[37] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613622782283	Marionette	INFO	Stopped listening on port 61157
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Temp\\rust_mozprofilecA3uyv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613622015981	Marionette	INFO	Listening on port 61741
+1613622016312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613622016331	Marionette	ERROR	[15] No reply from Marionette:Register
+1613622016673	Marionette	ERROR	[35] No reply from Marionette:Register
+1613622018956	Marionette	ERROR	[37] No reply from Marionette:Register
+[Child 3888, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1613622027623	Marionette	INFO	Stopped listening on port 61741
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613622108391	geckodriver	INFO	Listening on 127.0.0.1:62736
+1613622111390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofile2WQJ3b"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613622115447	Marionette	INFO	Listening on port 62779
+1613622115556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613622115581	Marionette	ERROR	[15] No reply from Marionette:Register
+1613622115869	Marionette	ERROR	[35] No reply from Marionette:Register
+1613622118590	Marionette	ERROR	[37] No reply from Marionette:Register
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613622129032	Marionette	INFO	Stopped listening on port 62779
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613622441570	geckodriver	INFO	Listening on 127.0.0.1:50589
+1613622444600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileAvvHds"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613622448456	Marionette	INFO	Listening on port 50634
+1613622448752	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613622448770	Marionette	ERROR	[15] No reply from Marionette:Register
+1613622449076	Marionette	ERROR	[35] No reply from Marionette:Register
+1613622451503	Marionette	ERROR	[37] No reply from Marionette:Register
+1613622468942	Marionette	INFO	Stopped listening on port 50634
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613622476865	geckodriver	INFO	Listening on 127.0.0.1:51071
+1613622479889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileBu8GRm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613622483839	Marionette	INFO	Listening on port 51115
+1613622484050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613622484073	Marionette	ERROR	[15] No reply from Marionette:Register
+1613622484406	Marionette	ERROR	[35] No reply from Marionette:Register
+1613622486701	Marionette	ERROR	[37] No reply from Marionette:Register
+1613622515954	Marionette	INFO	Stopped listening on port 51115
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613622608442	geckodriver	INFO	Listening on 127.0.0.1:52648
+1613622611454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofile10lTkU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613622615541	Marionette	INFO	Listening on port 52693
+1613622615635	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613622615654	Marionette	ERROR	[15] No reply from Marionette:Register
+1613622615920	Marionette	ERROR	[35] No reply from Marionette:Register
+1613622618342	Marionette	ERROR	[37] No reply from Marionette:Register
+1613622649227	Marionette	INFO	Stopped listening on port 52693
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613622743165	geckodriver	INFO	Listening on 127.0.0.1:54162
+1613622746195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilegT2maR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613622750724	Marionette	INFO	Listening on port 54206
+1613622750968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613622750984	Marionette	ERROR	[15] No reply from Marionette:Register
+1613622751383	Marionette	ERROR	[35] No reply from Marionette:Register
+1613622753919	Marionette	ERROR	[37] No reply from Marionette:Register
+1613622770549	Marionette	ERROR	[39] No reply from Marionette:Register
+1613622783453	Marionette	INFO	Stopped listening on port 54206
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613622796069	geckodriver	INFO	Listening on 127.0.0.1:54803
+1613622799080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileqd0pTv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613622802905	Marionette	INFO	Listening on port 54847
+1613622803236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613622803256	Marionette	ERROR	[15] No reply from Marionette:Register
+1613622803592	Marionette	ERROR	[35] No reply from Marionette:Register
+1613622805496	Marionette	ERROR	[37] No reply from Marionette:Register
+1613622823942	Marionette	ERROR	[39] No reply from Marionette:Register
+1613622843353	Marionette	INFO	Stopped listening on port 54847
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613622852209	geckodriver	INFO	Listening on 127.0.0.1:55534
+1613622855234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofiletz2GvK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613622859099	Marionette	INFO	Listening on port 55582
+1613622859386	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613622859404	Marionette	ERROR	[15] No reply from Marionette:Register
+1613622859694	Marionette	ERROR	[35] No reply from Marionette:Register
+1613622861781	Marionette	ERROR	[37] No reply from Marionette:Register
+JavaScript error: https://twitter.com/login?email_disabled=true&redirect_after_login=%2F, line 134: ChunkLoadError: Loading chunk 17 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/shared~ondemand.EmojiPickerData~ondemand.EmojiPicker.c8bd3f05.js)
+1613622867939	Marionette	ERROR	[39] No reply from Marionette:Register
+1613622872975	Marionette	ERROR	[41] No reply from Marionette:Register
+1613622888343	Marionette	ERROR	[43] No reply from Marionette:Register
+1613622906249	Marionette	INFO	Stopped listening on port 55582
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613623046373	geckodriver	INFO	Listening on 127.0.0.1:57840
+1613623049395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileBRaIQD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613623053224	Marionette	INFO	Listening on port 57883
+1613623053563	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613623053588	Marionette	ERROR	[15] No reply from Marionette:Register
+1613623053903	Marionette	ERROR	[35] No reply from Marionette:Register
+1613623055920	Marionette	ERROR	[37] No reply from Marionette:Register
+1613623064954	Marionette	ERROR	[39] No reply from Marionette:Register
+[Child 304, MediaDecoderStateMachine #1] WARNING: Decoder=26bd9457800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 304, MediaDecoderStateMachine #1] WARNING: Decoder=26bd9457800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 304, MediaDecoderStateMachine #1] WARNING: Decoder=26bd9457800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 304, MediaDecoderStateMachine #1] WARNING: Decoder=26bd9457800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 304, MediaDecoderStateMachine #1] WARNING: Decoder=26bd9457800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+1613623098368	Marionette	INFO	Stopped listening on port 57883
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613624714535	geckodriver	INFO	Listening on 127.0.0.1:62378
+1613624717545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilefAcVEO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613624721533	Marionette	INFO	Listening on port 62421
+1613624721717	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613624721739	Marionette	ERROR	[15] No reply from Marionette:Register
+1613624722172	Marionette	ERROR	[35] No reply from Marionette:Register
+1613624724286	Marionette	ERROR	[37] No reply from Marionette:Register
+1613624734246	Marionette	ERROR	[39] No reply from Marionette:Register
+1613624744646	Marionette	ERROR	[41] No reply from Marionette:Register
+1613624760185	Marionette	INFO	Stopped listening on port 62421
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613624788956	geckodriver	INFO	Listening on 127.0.0.1:63335
+1613624791979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilec3ohgg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613624796004	Marionette	INFO	Listening on port 63385
+1613624796147	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613624796167	Marionette	ERROR	[15] No reply from Marionette:Register
+1613624796498	Marionette	ERROR	[35] No reply from Marionette:Register
+1613624798655	Marionette	ERROR	[37] No reply from Marionette:Register
+1613624809595	Marionette	ERROR	[39] No reply from Marionette:Register
+1613624821513	Marionette	INFO	Stopped listening on port 63385
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613624912685	geckodriver	INFO	Listening on 127.0.0.1:64788
+1613624915693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileQS9hFw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613624919886	Marionette	INFO	Listening on port 64831
+1613624919957	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613624919974	Marionette	ERROR	[15] No reply from Marionette:Register
+1613624920619	Marionette	ERROR	[35] No reply from Marionette:Register
+1613624922938	Marionette	ERROR	[37] No reply from Marionette:Register
+1613624934970	Marionette	ERROR	[39] No reply from Marionette:Register
+1613624938992	Marionette	ERROR	[41] No reply from Marionette:Register
+1613624968841	Marionette	INFO	Stopped listening on port 64831
+1613625043864	geckodriver	INFO	Listening on 127.0.0.1:50264
+1613625046891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofile2eCQvd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613625050865	Marionette	INFO	Listening on port 50320
+1613625051049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613625051070	Marionette	ERROR	[18] No reply from Marionette:Register
+1613625051442	Marionette	ERROR	[35] No reply from Marionette:Register
+1613625053691	Marionette	ERROR	[37] No reply from Marionette:Register
+1613625061453	Marionette	ERROR	[39] No reply from Marionette:Register
+[Child 14164, MediaDecoderStateMachine #1] WARNING: Decoder=2909a744800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 14164, MediaDecoderStateMachine #1] WARNING: Decoder=2909a744800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 14164, MediaDecoderStateMachine #1] WARNING: Decoder=2909a744800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 14164, MediaDecoderStateMachine #1] WARNING: Decoder=2909a744800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 14164, MediaDecoderStateMachine #1] WARNING: Decoder=2909a744800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 14164, MediaDecoderStateMachine #1] WARNING: Decoder=2909a744800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 14164, MediaDecoderStateMachine #1] WARNING: Decoder=2909a744800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+1613625108911	Marionette	INFO	Stopped listening on port 50320
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613625203852	geckodriver	INFO	Listening on 127.0.0.1:52101
+1613625206872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileBcCrmZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613625210861	Marionette	INFO	Listening on port 52149
+1613625211027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613625211045	Marionette	ERROR	[18] No reply from Marionette:Register
+1613625211449	Marionette	ERROR	[35] No reply from Marionette:Register
+1613625213588	Marionette	ERROR	[37] No reply from Marionette:Register
+1613625223728	Marionette	ERROR	[39] No reply from Marionette:Register
+1613625280059	Marionette	INFO	Stopped listening on port 52149
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613625297593	geckodriver	INFO	Listening on 127.0.0.1:53276
+1613625300619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilevOsFwr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613625304690	Marionette	INFO	Listening on port 53319
+1613625304804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613625304827	Marionette	ERROR	[15] No reply from Marionette:Register
+1613625305452	Marionette	ERROR	[35] No reply from Marionette:Register
+1613625307802	Marionette	ERROR	[37] No reply from Marionette:Register
+1613625315111	Marionette	ERROR	[39] No reply from Marionette:Register
+1613625347893	Marionette	INFO	Stopped listening on port 53319
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613625431574	geckodriver	INFO	Listening on 127.0.0.1:54800
+1613625434597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilei0LU3h"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613625438747	Marionette	INFO	Listening on port 54848
+1613625438870	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613625438893	Marionette	ERROR	[15] No reply from Marionette:Register
+1613625439600	Marionette	ERROR	[35] No reply from Marionette:Register
+1613625442010	Marionette	ERROR	[37] No reply from Marionette:Register
+1613625448617	Marionette	ERROR	[39] No reply from Marionette:Register
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bbe43800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bbe43800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bbe43800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bbe43800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bbe43800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bbe43800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bbe43800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bbe43800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bb62c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bb62c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bb62c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bb62c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bb62c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bb62c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bb62c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bb62c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bb62c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258cf43d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258cf43d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258cf43d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258cf43d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258cf43d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258cf43d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258cf43d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258cf43d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258cf43d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258cf43d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258be662400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258be662400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258be662400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258be662400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258be662400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258be662400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258be662400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258be662400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258be662400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258be662400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bb630400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bb630400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bb630400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258b9f31000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258b9f31000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258b9f31000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258b9f31000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258b9f31000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258b9f31000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258b9f31000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258b9f31000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bc887c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bc887c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bc887c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bc887c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bc887c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bc887c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bc887c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bc887c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bc887c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bc887c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bc887c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bc887c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258c9523000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258c9523000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258c9523000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258c9523000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258c9523000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258c9523000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258c9523000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258c9523000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258c9523000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258cb9a3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258cb9a3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258cb9a3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258cb9a3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258cb9a3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258cb9a3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258cb9a3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258cb9a3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258cb9a3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258cb9a3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258cb9a3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bc883c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bc883c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bc883c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bc883c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bc883c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bc883c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bc883c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258bc883c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258c951d000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 21164, MediaDecoderStateMachine #1] WARNING: Decoder=258c951d000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+1613626233190	Marionette	INFO	Stopped listening on port 54848
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613627157309	geckodriver	INFO	Listening on 127.0.0.1:57130
+1613627160320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileTOh2Ih"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613627164537	Marionette	INFO	Listening on port 57173
+1613627164613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613627164651	Marionette	ERROR	[15] No reply from Marionette:Register
+1613627165245	Marionette	ERROR	[35] No reply from Marionette:Register
+1613627167563	Marionette	ERROR	[37] No reply from Marionette:Register
+1613627174533	Marionette	ERROR	[39] No reply from Marionette:Register
+[Child 11728, MediaDecoderStateMachine #1] WARNING: Decoder=1a18392dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 11728, MediaDecoderStateMachine #1] WARNING: Decoder=1a18392dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 11728, MediaDecoderStateMachine #1] WARNING: Decoder=1a18392dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 11728, MediaDecoderStateMachine #1] WARNING: Decoder=1a18392dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 11728, MediaDecoderStateMachine #1] WARNING: Decoder=1a18392dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 11728, MediaDecoderStateMachine #1] WARNING: Decoder=1a18392dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 11728, MediaDecoderStateMachine #1] WARNING: Decoder=1a18392dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 11728, MediaDecoderStateMachine #1] WARNING: Decoder=1a18392dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 11728, MediaDecoderStateMachine #1] WARNING: Decoder=1a18392dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+1613627275272	geckodriver	INFO	Listening on 127.0.0.1:58455
+1613627278282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofile0XPJe4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613627282313	Marionette	INFO	Listening on port 58498
+1613627282436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613627282457	Marionette	ERROR	[18] No reply from Marionette:Register
+1613627282768	Marionette	ERROR	[35] No reply from Marionette:Register
+1613627284918	Marionette	ERROR	[37] No reply from Marionette:Register
+1613627291310	Marionette	ERROR	[39] No reply from Marionette:Register
+1613627484240	geckodriver	INFO	Listening on 127.0.0.1:61038
+1613627487258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilebsuTyV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613627491665	Marionette	INFO	Listening on port 61081
+1613627492037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613627492055	Marionette	ERROR	[15] No reply from Marionette:Register
+1613627492390	Marionette	ERROR	[35] No reply from Marionette:Register
+1613627494594	Marionette	ERROR	[37] No reply from Marionette:Register
+1613627502184	Marionette	ERROR	[39] No reply from Marionette:Register
+1613627863931	Marionette	INFO	Stopped listening on port 61081
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileZUJRQL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613627560702	Marionette	INFO	Listening on port 61895
+1613627561056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613627561075	Marionette	ERROR	[15] No reply from Marionette:Register
+1613627561575	Marionette	ERROR	[35] No reply from Marionette:Register
+1613627564088	Marionette	ERROR	[37] No reply from Marionette:Register
+1613627572212	Marionette	ERROR	[39] No reply from Marionette:Register
+1613627604488	Marionette	INFO	Stopped listening on port 61895
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613628162720	geckodriver	INFO	Listening on 127.0.0.1:52515
+1613628165743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileqiuXBg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613628170120	Marionette	INFO	Listening on port 52558
+1613628170494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613628170512	Marionette	ERROR	[15] No reply from Marionette:Register
+1613628170930	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://twitter.com/user/status/1362113772182265862, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: https://twitter.com/user/status/1362113772182265862, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://twitter.com/user/status/1362113627625574403, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: https://twitter.com/user/status/1362113627625574403, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://twitter.com/user/status/1362112972135555084, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: https://twitter.com/user/status/1362112972135555084, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: https://twitter.com/user/status/1362112900601626626, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: https://twitter.com/user/status/1362112900601626626, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://twitter.com/user/status/1362112634468892675, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: https://twitter.com/user/status/1362112634468892675, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+Marionette threw an error: TypeError: chromeWindow is null
+waitForNavigationCompleted@chrome://marionette/content/navigate.js:349:3
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:1250:18
+
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1613628179626	Marionette	INFO	Stopped listening on port 52558
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613628377702	geckodriver	INFO	Listening on 127.0.0.1:55018
+1613628380744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilejyJ8sb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613628384735	Marionette	INFO	Listening on port 55062
+1613628384896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613628384912	Marionette	ERROR	[18] No reply from Marionette:Register
+1613628385171	Marionette	ERROR	[35] No reply from Marionette:Register
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613630785079	Marionette	INFO	Stopped listening on port 55062
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+	Marionette	ERROR	[15] No reply from Marionette:Register
+1613628513032	Marionette	ERROR	[35] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613630310324	Marionette	INFO	Stopped listening on port 56484
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Temp\\rust_mozprofilemBq0am"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613628702916	Marionette	INFO	Listening on port 58722
+1613628703197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613628703212	Marionette	ERROR	[15] No reply from Marionette:Register
+1613628703501	Marionette	ERROR	[35] No reply from Marionette:Register
+1613628711425	Marionette	INFO	Stopped listening on port 58722
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613628723318	geckodriver	INFO	Listening on 127.0.0.1:59024
+1613628726357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileDKtK3u"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613628730970	Marionette	INFO	Listening on port 59069
+1613628731117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613628731136	Marionette	ERROR	[15] No reply from Marionette:Register
+1613628731424	Marionette	ERROR	[35] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613630308322	Marionette	INFO	Stopped listening on port 59069
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Temp\\rust_mozprofileSwVbsM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613628812942	Marionette	INFO	Listening on port 60079
+1613628813389	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613628813405	Marionette	ERROR	[15] No reply from Marionette:Register
+1613628813740	Marionette	ERROR	[35] No reply from Marionette:Register
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:332:69
+unregisterCommandsActor@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:395:15
+GeckoDriver.prototype.deleteSession@chrome://marionette/content/driver.js:3089:5
+onClosed@chrome://marionette/content/server.js:196:17
+close@chrome://marionette/content/transport.js:225:18
+onInputStreamReady@chrome://marionette/content/transport.js:379:14
+
+JavaScript error: chrome://marionette/content/actors/MarionetteCommandsChild.jsm, line 64: TypeError: this.document.defaultView is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+1613628828555	Marionette	INFO	Stopped listening on port 60079
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613628916522	geckodriver	INFO	Listening on 127.0.0.1:61339
+1613628919554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofile8K0Eoi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613628923832	Marionette	INFO	Listening on port 61382
+1613628924313	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613628924333	Marionette	ERROR	[15] No reply from Marionette:Register
+1613628924628	Marionette	ERROR	[35] No reply from Marionette:Register
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613630306732	Marionette	INFO	Stopped listening on port 61382
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613629028357	Marionette	INFO	Listening on port 62644
+1613629028429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613629028460	Marionette	ERROR	[15] No reply from Marionette:Register
+1613629028806	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: https://twitter.com/JackPosobiec, line 134: ChunkLoadError: Loading chunk 154 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.graphQLDarkReads.78553645.js)
+JavaScript error: https://twitter.com/finalfrantasy, line 134: ChunkLoadError: Loading chunk 154 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.graphQLDarkReads.78553645.js)
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1613629068197	geckodriver	INFO	Listening on 127.0.0.1:63117
+1613629071220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileBXHUBx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613629075729	Marionette	INFO	Listening on port 63167
+1613629075976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613629075995	Marionette	ERROR	[15] No reply from Marionette:Register
+1613629076285	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://twitter.com/scksupporter, line 134: ChunkLoadError: Loading chunk 154 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.graphQLDarkReads.78553645.js)
+JavaScript error: https://twitter.com/finalfrantasy, line 134: ChunkLoadError: Loading chunk 154 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.graphQLDarkReads.78553645.js)
+JavaScript error: https://twitter.com/swipnip, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/swipnip, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/swipnip, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/swipnip, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/swipnip, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/swipnip, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/swipnip, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/swipnip, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/swipnip, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/swipnip, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/swipnip, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/swipnip, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/swipnip, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/swipnip, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/swipnip, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/swipnip, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/swipnip, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/swipnip, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/swipnip, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/swipnip, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/GTWScar, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/GTWScar, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/GTWScar, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/GTWScar, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/GTWScar, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/GTWScar, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/GTWScar, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/GTWScar, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/GTWScar, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/GTWScar, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/GTWScar, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/GTWScar, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/GTWScar, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/GTWScar, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/GTWScar, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/GTWScar, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+JavaScript error: https://twitter.com/GTWScar, line 134: ChunkLoadError: Loading chunk 174 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f4c2aa65.js)
+1613629185150	geckodriver	INFO	Listening on 127.0.0.1:64278
+1613629188197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileLC6uiR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613629192385	Marionette	INFO	Listening on port 64321
+1613629192487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613629192514	Marionette	ERROR	[15] No reply from Marionette:Register
+1613629192800	Marionette	ERROR	[35] No reply from Marionette:Register
+1613629257988	Marionette	INFO	Stopped listening on port 64321
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613629315737	geckodriver	INFO	Listening on 127.0.0.1:49396
+1613629318739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilej0dwh1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613629322881	Marionette	INFO	Listening on port 49709
+1613629323008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613629323030	Marionette	ERROR	[15] No reply from Marionette:Register
+1613629323305	Marionette	ERROR	[35] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613630303689	Marionette	INFO	Stopped listening on port 49709
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Temp\\rust_mozprofileWNsFTs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613629531629	Marionette	INFO	Listening on port 52176
+1613629531835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613629531863	Marionette	ERROR	[15] No reply from Marionette:Register
+1613629532271	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://twitter.com/hussle_quotes, line 134: ChunkLoadError: Loading chunk 154 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.graphQLDarkReads.78553645.js)
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613630302661	Marionette	INFO	Stopped listening on port 52176
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Temp\\rust_mozprofilekSCLHA"
+1613629786932	geckodriver	INFO	Listening on 127.0.0.1:55227
+1613629789955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileuKpofq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613629794211	Marionette	INFO	Listening on port 55270
+1613629794706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613629794727	Marionette	ERROR	[15] No reply from Marionette:Register
+1613629794988	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://twitter.com/hussle_quotes, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: https://twitter.com/issielapowsky, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: https://twitter.com/JackPosobiec, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: https://twitter.com/scksupporter, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: https://twitter.com/jlampstack, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: https://twitter.com/finalfrantasy, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: https://twitter.com/amuse, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: https://twitter.com/realalexlains, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: https://twitter.com/ThomasEWoods, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: https://twitter.com/RussellTehFox, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: https://twitter.com/FaZeBlaze, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1613629830490	geckodriver	INFO	Listening on 127.0.0.1:55716
+1613629833511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileZYpljp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613629837915	Marionette	INFO	Listening on port 55761
+1613629838282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613629838298	Marionette	ERROR	[15] No reply from Marionette:Register
+1613629838709	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://twitter.com/hussle_quotes, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: https://twitter.com/issielapowsky, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+JavaScript error: https://twitter.com/JackPosobiec, line 134: ChunkLoadError: Loading chunk 162 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.24398485.js)
+1613629854575	geckodriver	INFO	Listening on 127.0.0.1:56024
+1613629857607	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilehVUHLw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613629861727	Marionette	INFO	Listening on port 56062
+1613629861782	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613629861803	Marionette	ERROR	[18] No reply from Marionette:Register
+1613629862083	Marionette	ERROR	[35] No reply from Marionette:Register
+1613630301104	Marionette	INFO	Stopped listening on port 56062
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilewazSAL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613629959821	Marionette	INFO	Listening on port 57195
+1613629960106	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613629960124	Marionette	ERROR	[15] No reply from Marionette:Register
+1613629960400	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://twitter.com/hussle_quotes, line 134: ChunkLoadError: Loading chunk 154 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.graphQLDarkReads.78553645.js)
+1613630143606	geckodriver	INFO	Listening on 127.0.0.1:59321
+1613630146629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilewohxtJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613630150781	Marionette	INFO	Listening on port 59364
+1613630150888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613630150911	Marionette	ERROR	[15] No reply from Marionette:Register
+1613630151193	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://twitter.com/hussle_quotes, line 134: ChunkLoadError: Loading chunk 154 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.graphQLDarkReads.78553645.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1613630299824	Marionette	INFO	Stopped listening on port 59364
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613630374874	geckodriver	INFO	Listening on 127.0.0.1:61708
+1613630377919	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileAIiym5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613630382085	Marionette	INFO	Listening on port 61751
+1613630382197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613630382217	Marionette	ERROR	[18] No reply from Marionette:Register
+1613630382513	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1613630778348	Marionette	INFO	Stopped listening on port 61751
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileksCoOW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613630542353	Marionette	INFO	Listening on port 63302
+1613630542696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613630542713	Marionette	ERROR	[15] No reply from Marionette:Register
+1613630542976	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://twitter.com/hussle_quotes, line 134: ChunkLoadError: Loading chunk 154 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.graphQLDarkReads.78553645.js)
+JavaScript error: https://twitter.com/chessninja, line 134: ChunkLoadError: Loading chunk 154 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.graphQLDarkReads.78553645.js)
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://twitter.com/scksupporter, line 134: ChunkLoadError: Loading chunk 154 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.graphQLDarkReads.78553645.js)
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+[Child 29508, MediaDecoderStateMachine #1] WARNING: Decoder=29c5a374400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:368
+[Child 29508, MediaDecoderStateMachine #1] WARNING: Decoder=29c5a374400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1613630777642	Marionette	INFO	Stopped listening on port 63302
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614138669478	geckodriver	INFO	Listening on 127.0.0.1:53248
+1614138672512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofile2up4dl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614138677086	Marionette	INFO	Listening on port 53291
+1614138677290	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614138677321	Marionette	ERROR	[15] No reply from Marionette:Register
+1614138677878	Marionette	ERROR	[35] No reply from Marionette:Register
+1614138681349	Marionette	ERROR	[37] No reply from Marionette:Register
+1614139014366	Marionette	INFO	Stopped listening on port 53291
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+38831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614138738859	Marionette	ERROR	[15] No reply from Marionette:Register
+1614138739311	Marionette	ERROR	[35] No reply from Marionette:Register
+1614138742158	Marionette	ERROR	[37] No reply from Marionette:Register
+1614139013541	Marionette	INFO	Stopped listening on port 53949
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofile3Cw7WS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614138791639	Marionette	INFO	Listening on port 54474
+1614138792175	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614138792199	Marionette	ERROR	[15] No reply from Marionette:Register
+1614138792597	Marionette	ERROR	[35] No reply from Marionette:Register
+1614138795641	Marionette	ERROR	[37] No reply from Marionette:Register
+[Child 27932, MediaDecoderStateMachine #1] WARNING: Decoder=1f64feebc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 27932, MediaDecoderStateMachine #1] WARNING: Decoder=1f64feebc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 27932, MediaDecoderStateMachine #1] WARNING: Decoder=1f64feebc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 27932, MediaDecoderStateMachine #1] WARNING: Decoder=1f64feebc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 27932, MediaDecoderStateMachine #1] WARNING: Decoder=1f64feebc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 27932, MediaDecoderStateMachine #1] WARNING: Decoder=1f64feebc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 27932, MediaDecoderStateMachine #1] WARNING: Decoder=1f64feebc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 27932, MediaDecoderStateMachine #1] WARNING: Decoder=1f64feebc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 27932, MediaDecoderStateMachine #1] WARNING: Decoder=1f64feebc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+1614138843962	geckodriver	INFO	Listening on 127.0.0.1:54972
+1614138846973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilemGubDk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614138852063	Marionette	INFO	Listening on port 55010
+1614138852245	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614138852271	Marionette	ERROR	[15] No reply from Marionette:Register
+1614138852667	Marionette	ERROR	[35] No reply from Marionette:Register
+1614138855704	Marionette	ERROR	[37] No reply from Marionette:Register
+1614138873270	Marionette	INFO	Stopped listening on port 55010
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614138979723	geckodriver	INFO	Listening on 127.0.0.1:56274
+1614138982764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileCZEGYz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614138989613	Marionette	INFO	Listening on port 56307
+1614138989982	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614138990009	Marionette	ERROR	[15] No reply from Marionette:Register
+1614138990386	Marionette	ERROR	[35] No reply from Marionette:Register
+1614138993420	Marionette	ERROR	[37] No reply from Marionette:Register
+1614139011999	Marionette	INFO	Stopped listening on port 56307
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614139246888	geckodriver	INFO	Listening on 127.0.0.1:59183
+1614139249932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileITM171"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614139253878	Marionette	INFO	Listening on port 59226
+1614139254113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614139254131	Marionette	ERROR	[15] No reply from Marionette:Register
+1614139255565	Marionette	ERROR	[35] No reply from Marionette:Register
+1614139257954	Marionette	ERROR	[37] No reply from Marionette:Register
+1614139284025	Marionette	INFO	Stopped listening on port 59226
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614139594959	geckodriver	INFO	Listening on 127.0.0.1:63587
+1614139597987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileeUkkUk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614139602125	Marionette	INFO	Listening on port 63630
+1614139602254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614139602272	Marionette	ERROR	[15] No reply from Marionette:Register
+1614139603041	Marionette	ERROR	[35] No reply from Marionette:Register
+1614139605825	Marionette	ERROR	[37] No reply from Marionette:Register
+[Child 23632, MediaDecoderStateMachine #1] WARNING: Decoder=1e34ce8b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 23632, MediaDecoderStateMachine #1] WARNING: Decoder=1e34ce8b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 23632, MediaDecoderStateMachine #1] WARNING: Decoder=1e34ce8b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 23632, MediaDecoderStateMachine #1] WARNING: Decoder=1e34ce8b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 23632, MediaDecoderStateMachine #1] WARNING: Decoder=1e34ce8b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+1614139774124	geckodriver	INFO	Listening on 127.0.0.1:49316
+1614139777141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilePa1baJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614139781890	Marionette	INFO	Listening on port 49359
+1614139782412	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614139782427	Marionette	ERROR	[15] No reply from Marionette:Register
+1614139782958	Marionette	ERROR	[33] No reply from Marionette:Register
+1614139785814	Marionette	ERROR	[37] No reply from Marionette:Register
+1614139840577	Marionette	INFO	Stopped listening on port 49359
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofiledjnket"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614139812684	Marionette	INFO	Listening on port 50065
+1614139812778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614139812814	Marionette	ERROR	[15] No reply from Marionette:Register
+1614139813337	Marionette	ERROR	[35] No reply from Marionette:Register
+1614139817630	Marionette	ERROR	[37] No reply from Marionette:Register
+1614139842990	Marionette	INFO	Stopped listening on port 50065
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614139964592	geckodriver	INFO	Listening on 127.0.0.1:52057
+1614139967617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileKxvdB5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614139971937	Marionette	INFO	Listening on port 52100
+1614139972379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614139972394	Marionette	ERROR	[15] No reply from Marionette:Register
+1614139973828	Marionette	ERROR	[35] No reply from Marionette:Register
+1614139976683	Marionette	ERROR	[37] No reply from Marionette:Register
+[Child 8460, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1614140088761	Marionette	INFO	Stopped listening on port 52100
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614140051866	Marionette	INFO	Listening on port 53117
+1614140052173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614140052188	Marionette	ERROR	[15] No reply from Marionette:Register
+1614140053148	Marionette	ERROR	[35] No reply from Marionette:Register
+1614140055668	Marionette	ERROR	[37] No reply from Marionette:Register
+[Child 23656, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 23656, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 23656, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1614140087338	Marionette	INFO	Stopped listening on port 53117
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614140106865	geckodriver	INFO	Listening on 127.0.0.1:53830
+1614140109896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilewtNZHc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614140113758	Marionette	INFO	Listening on port 53879
+1614140114054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614140114071	Marionette	ERROR	[15] No reply from Marionette:Register
+1614140114412	Marionette	ERROR	[35] No reply from Marionette:Register
+1614140116707	Marionette	ERROR	[37] No reply from Marionette:Register
+1614140146738	Marionette	ERROR	[39] No reply from Marionette:Register
+1614140152980	Marionette	INFO	Stopped listening on port 53879
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614140154968	geckodriver	INFO	Listening on 127.0.0.1:54490
+1614140157990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilehaKve5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614140162066	Marionette	INFO	Listening on port 54538
+1614140162167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614140162191	Marionette	ERROR	[15] No reply from Marionette:Register
+1614140163447	Marionette	ERROR	[35] No reply from Marionette:Register
+1614140165897	Marionette	ERROR	[37] No reply from Marionette:Register
+1614140173590	Marionette	ERROR	[39] No reply from Marionette:Register
+1614140274206	Marionette	INFO	Stopped listening on port 54538
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileaSmcxN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614140229591	Marionette	INFO	Listening on port 55416
+1614140229933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614140229948	Marionette	ERROR	[15] No reply from Marionette:Register
+1614140230365	Marionette	ERROR	[35] No reply from Marionette:Register
+1614140232672	Marionette	ERROR	[37] No reply from Marionette:Register
+1614140241156	Marionette	ERROR	[39] No reply from Marionette:Register
+1614140273453	Marionette	INFO	Stopped listening on port 55416
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614661501243	geckodriver	INFO	Listening on 127.0.0.1:60891
+1614661504271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofile9sTS5w"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614661507972	Marionette	INFO	Listening on port 60944
+1614661508421	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614661564036	Marionette	INFO	Stopped listening on port 60941614661564711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileimAAry"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614661568358	Marionette	INFO	Listening on port 61884
+1614661568852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614661597189	Marionette	INFO	Stopped listening on port 61884
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614662844074	geckodriver	INFO	Listening on 127.0.0.1:64086
+1614662847093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilepTKaou"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614662851180	Marionette	INFO	Listening on port 64135
+1614662851240	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614662896818	geckodriver	INFO	Listening on 127.0.0.1:64733
+1614662899836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileHvEylb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614662903890	Marionette	INFO	Listening on port 64783
+1614662903981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614665827862	Marionette	INFO	Stopped listening on port 64783
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614698895314	geckodriver	INFO	Listening on 127.0.0.1:63464
+1614698898346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilerlqyRm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614698902591	Marionette	INFO	Listening on port 63522
+1614698903099	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614701278201	Marionette	INFO	Stopped listening on port 63522
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614705748150	geckodriver	INFO	Listening on 127.0.0.1:55995
+1614705751166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileYOiY24"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614705755135	Marionette	INFO	Listening on port 56048
+1614705755311	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614713002820	Marionette	INFO	Stopped listening on port 56048
+[Child 7648, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614713841702	geckodriver	INFO	Listening on 127.0.0.1:58532
+1614713844722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofile74eDbu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614713849577	Marionette	INFO	Listening on port 58576
+1614713849965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614713913791	Marionette	INFO	Stopped listening on port 58576
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614714713277	geckodriver	INFO	Listening on 127.0.0.1:52843
+1614714716268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileh5cT5f"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614714722103	Marionette	INFO	Listening on port 52886
+1614714722532	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614717638949	Marionette	INFO	Stopped listening on port 52886
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614717641376	geckodriver	INFO	Listening on 127.0.0.1:58770
+1614717644392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileXpNSbO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614717648576	Marionette	INFO	Listening on port 58818
+1614717648645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614718612272	Marionette	INFO	Stopped listening on port 58818
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614718938922	geckodriver	INFO	Listening on 127.0.0.1:56709
+1614718941948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileUHc194"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614718946639	Marionette	INFO	Listening on port 56752
+1614718946717	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614719359950	Marionette	INFO	Stopped listening on port 56752
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614719423874	geckodriver	INFO	Listening on 127.0.0.1:61862
+1614719426890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileVrB3tD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614719431448	Marionette	INFO	Listening on port 61906
+1614719431662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614719501385	Marionette	INFO	Stopped listening on port 61906
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614720381785	geckodriver	INFO	Listening on 127.0.0.1:55834
+1614720384798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofile1h2Q2B"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614720390491	Marionette	INFO	Listening on port 55872
+1614720390584	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614720414382	Marionette	INFO	Stopped listening on port 55872
+[Child 6712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 6712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614727274323	geckodriver	INFO	Listening on 127.0.0.1:52323
+1614727277368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileO1ObZ0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614727282300	Marionette	INFO	Listening on port 52366
+1614727282630	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614727323779	Marionette	INFO	Stopped listening on port 52366
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614727328772	geckodriver	INFO	Listening on 127.0.0.1:53047
+1614727331810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofile64Lvq1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614727336318	Marionette	INFO	Listening on port 53090
+1614727336556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614727383665	Marionette	INFO	Stopped listening on port 53090
+[Child 22168, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1614727531704	geckodriver	INFO	Listening on 127.0.0.1:55563
+1614727534734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofile5F3upy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614727539199	Marionette	INFO	Listening on port 55611
+1614727539488	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614727729392	Marionette	INFO	Stopped listening on port 55611
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614727733070	geckodriver	INFO	Listening on 127.0.0.1:58250
+1614727736123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofileUfvThd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614727741163	Marionette	INFO	Listening on port 58293
+1614727741379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614727771527	Marionette	INFO	Stopped listening on port 58293
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614727796629	geckodriver	INFO	Listening on 127.0.0.1:59014
+1614727799653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikki\\AppData\\Local\\Temp\\rust_mozprofilevpANzu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614727806035	Marionette	INFO	Listening on port 59057
+1614727806121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614727839001	Marionette	INFO	Stopped listening on port 59057
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
